@@ -3,7 +3,7 @@
 A RAG (Retrieval-Augmented Generation) based assistant built with Python and Streamlit, developed during a GenAI workshop.
 
 ## Live Demo
-https://ai-resume-assistant.streamlit.app
+https://ai-resume-assistantgit-avhutqfpuz3tbq9yef5hjy.streamlit.app/
 
 ## How it works
 1. Documents are split into chunks (`chunking.py`)
